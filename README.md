@@ -1,5 +1,7 @@
 # Gorilla Tables (web)
 
+**Proprietary. Copyright (c) 2026 Gerarden Fabrication. All rights reserved. Not open source; see LICENSE.**
+
 Password-protected web copy of Gorilla Tables, Gerarden Fabrication's in-house fixture table designer
 (fabricationtables.com).
 
