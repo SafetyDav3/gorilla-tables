@@ -2,7 +2,7 @@
 
 **Proprietary. Copyright (c) 2026 Gerarden Fabrication. All rights reserved. Not open source; see LICENSE.**
 
-Password-protected web copy of Gorilla Tables, Gerarden Fabrication's in-house fixture table designer
+Password-protected web copy of Gorilla Tables, the in-house fixture table designer
 (fabricationtables.com).
 
 `index.html` is a sign-in page. The app itself is inside it, encrypted (AES-256-GCM, key from the
